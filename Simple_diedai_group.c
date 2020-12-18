@@ -9,6 +9,6 @@
 int main(int argc, char *argv[])
 {
     double *x = NULL, *x0 = NULL, e = 1e-8;
-
+    printf("hellogit!\n");
     return 0;
 }
